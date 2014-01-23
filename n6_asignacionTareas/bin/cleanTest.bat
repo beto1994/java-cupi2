@@ -1,0 +1,21 @@
+@echo off
+REM ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+REM Universidad de los Andes (Bogotá - Colombia)
+REM Departamento de Ingeniería de Sistemas y Computación
+REM Licenciado bajo el esquema Academic Free License version 2.1
+REM
+REM Proyecto Cupi2
+REM Ejercicio: n6_asignacionTareas
+REM Autor: Mario Sánchez - 22-Ago-2005
+REM ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+REM/
+
+REM ---------------------------------------------------------
+REM Borra todos los archivos generados por el build
+REM ---------------------------------------------------------
+
+cd ..\test
+del classes\* /s /q 
+del lib\asignacionTareasTest.jar /s /q 
+
+cd ..\bin

@@ -1,0 +1,13 @@
+tareas.numero=6
+tareas.tarea1.nombre=Análisis
+tareas.tarea2.nombre=Diseño
+tareas.tarea3.nombre=Documentación
+tareas.tarea4.nombre=Implementación
+tareas.tarea5.nombre=Pruebas
+tareas.tarea6.nombre=Postmortem
+
+personas.numero=4
+personas.persona1.nombre=Pedro Gonzalez
+personas.persona2.nombre=Juan Gómez
+personas.persona3.nombre=Carolina Mendoza
+personas.persona4.nombre=Andrés Valencia

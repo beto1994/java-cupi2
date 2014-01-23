@@ -1,0 +1,59 @@
+# Archivo Examen
+
+#-----------------------------------------
+# Información del Examen
+#-----------------------------------------
+examen.cantidadPreguntas=5
+
+#-----------------------------------------
+# Pregunta 1
+#-----------------------------------------
+examen.pregunta1.cantidadRespuestas=3
+examen.pregunta1.correcta=a
+examen.pregunta1.respuesta_a.texto=Super Retrasado
+examen.pregunta1.respuesta_b.texto=Genio
+examen.pregunta1.respuesta_c.texto=Lentejo
+examen.pregunta1.texto=¿Cuál es el coeficiente mental de Kiko según Don Ramón?
+
+#-----------------------------------------
+# Pregunta 2
+#-----------------------------------------
+examen.pregunta2.cantidadRespuestas=4
+examen.pregunta2.correcta=c
+examen.pregunta2.respuesta_a.texto=9 de Junio de 1983
+examen.pregunta2.respuesta_b.texto=29 de Febrero de 1960
+examen.pregunta2.respuesta_c.texto=7 de Mayo de 1965
+examen.pregunta2.respuesta_d.texto=10 de Enero de 1964
+examen.pregunta2.texto=¿Cuándo nació Kiko?
+
+#-----------------------------------------
+# Pregunta 3
+#-----------------------------------------
+examen.pregunta3.cantidadRespuestas=4
+examen.pregunta3.correcta=c
+examen.pregunta3.respuesta_a.texto=No estudió
+examen.pregunta3.respuesta_b.texto=Ingeniería Industrial
+examen.pregunta3.respuesta_c.texto=Medicina
+examen.pregunta3.respuesta_d.texto=Carpintería
+examen.pregunta3.texto=¿Qué carrera estudió el Señor Barriga?
+
+#-----------------------------------------
+# Pregunta 4
+#-----------------------------------------
+examen.pregunta4.cantidadRespuestas=2
+examen.pregunta4.correcta=a
+examen.pregunta4.respuesta_a.texto=Si
+examen.pregunta4.respuesta_b.texto=No
+examen.pregunta4.texto=¿Es 44 el número que usa Godinez cuando juega fútbol americano?
+
+#-----------------------------------------
+# Pregunta 5
+#-----------------------------------------
+examen.pregunta5.cantidadRespuestas=4
+examen.pregunta5.correcta=b
+examen.pregunta5.respuesta_a.texto=8
+examen.pregunta5.respuesta_b.texto=80
+examen.pregunta5.respuesta_c.texto=50
+examen.pregunta5.respuesta_d.texto=28
+examen.pregunta5.texto=¿Cuántos inquilinos hay en la vecindad del Chavo?
+
